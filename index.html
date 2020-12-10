@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Scrabble Game</title>
+  <script src="js/Scrabble_Pieces_Array.js"></script>
+  <link rel="stylesheet" href="css/script.css" />
+
+</head>
+
+<body>
+
+
+<div id="points"></div>
+ <!--The Scrabble Board-->
+ <div id="board">
+   <div id="tile1" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+   <div id="tile2" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+   <div id="tile3" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+   <div id="tile4" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+   <div id="tile5" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+   <div id="tile6" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+   <div id="tile7" ondrop="drop(event)" ondragover="allowDrop(event)"></div>
+
+ </div>
+ <!--Tile Rack-->
+ <div id="tileRack" ondrop="drop(event)" ondragover="allowDrop(event)">
+  </div>
+
+
+ <!--Buttons-->
+ <div id="buttons">
+    <button class="btn btn-success btn-lg" id="nextWord" >Next Word</button>
+    <button class="btn btn-info btn-lg" id="startOver" >Start Over</button>
+</div>
+
+
+
+
+  <script src="./js/script.js"></script>
+</body>
+</html>
