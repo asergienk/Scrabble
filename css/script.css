@@ -1,3 +1,60 @@
+/*
+ Link to this assignment: https://asergienk.github.io/MultTable-Jquery-Slider-and-Tabs/
+ GitHub repository link: https://asergienk.github.io/MultTable-Jquery-Slider-and-Tabs/
+ 91.61 Assignment: Scrabble Game
+ Anna Sergienko, UMass Lowell Computer Science, anna_sergienko@student.uml.edu
+ Copyright (c) 2020 by Anna Sergienko. All rights reserved. May be
+ freely copied or excerpted for educational purposes with credit to the author.
+ updated by AS on December 16, 2020 at 12:30 PM
+ */
+
+/* The color of the page is light blue */
+html {
+    background-color: #F0FFFF;
+    height: 100%;
+  }
+
+/* The color of the body area is darker blue and 70% of the whole page width */
+body {
+    background-color: #ADD8E6;
+    margin: 0 auto;
+    width: 70%;
+    height: 100%;
+  }
+
+/* Main header is centered and the background is set to blue */
+h1 {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    background-color:  #008CBA;
+  }
+  
+/* The header for the scores is centered */
+h3 {
+    padding-top: 20px;
+    text-align: center;
+  }
+
+
+.container {
+    text-align: center;
+  }
+
+/* Buttons style: backgroung is blue, centered */
+.button {
+    background-color: #008CBA;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+
+/* Tile rack style: the image is set, centered */
 #tileRack {
     width: 800px;
     margin: 15px auto;
@@ -11,12 +68,14 @@
     background-repeat: no-repeat;
 }
 
+/* Tyle rack image style */
 #tileRack img, 
 #board img {
     object-fit: contain;
     max-width: 110px;
 }
 
+/* Board style */
 #board {
     width: 100%;
     display: flex;
@@ -42,4 +101,10 @@
     background-size: cover;
     background-position: center center;
     background-repeat: no-repeat;
+}
+
+/* Points style */
+#points {
+    padding-bottom: 20px;
+    text-align: center;
 }

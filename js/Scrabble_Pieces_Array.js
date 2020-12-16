@@ -1,10 +1,11 @@
-/*  File:  /~heines/91.461/91.461-2015-16f/461-assn/Scrabble_Pieces_AssociativeArray_Jesse.js
- *  Jesse M. Heines, UMass Lowell Computer Science, heines@cs.uml.edu
- *  Copyright (c) 2015 by Jesse M. Heines.  All rights reserved.  May be freely 
- *    copied or excerpted for educational purposes with credit to the author.
- *  updated by JMH on November 21, 2015 at 10:27 AM
- *  updated by JMH on November 25, 2015 at 10:58 AM to add the blank tile
- *  updated by JMH on November 27, 2015 at 10:22 AM to add originalDistribution
+/*
+ Link to this assignment: https://asergienk.github.io/MultTable-Jquery-Slider-and-Tabs/
+ GitHub repository link: https://asergienk.github.io/MultTable-Jquery-Slider-and-Tabs/
+ 91.61 Assignment: Scrabble Game
+ Anna Sergienko, UMass Lowell Computer Science, anna_sergienko@student.uml.edu
+ Copyright (c) 2020 by Anna Sergienko. All rights reserved. May be
+ freely copied or excerpted for educational purposes with credit to the author.
+ updated by AS on December 16, 2020 at 12:30 PM
  */
  
 var ScrabbleTiles = {} ;
