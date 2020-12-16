@@ -1,4 +1,4 @@
-Link to this assignment: https://asergienk.github.io/MultTable-Jquery-Slider-and-Tabs/ <br />
+Link to this assignment:  https://asergienk.github.io/Scrabble/ <br />
 GitHub repository link: https://github.com/asergienk/Scrabble
 
 Features that fully working:
