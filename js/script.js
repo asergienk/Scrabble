@@ -1,6 +1,6 @@
 /*
  Link to this assignment: https://asergienk.github.io/MultTable-Jquery-Slider-and-Tabs/
- GitHub repository link: https://asergienk.github.io/MultTable-Jquery-Slider-and-Tabs/
+ GitHub repository link: https://github.com/asergienk/Scrabble
  91.61 Assignment: Scrabble Game
  Anna Sergienko, UMass Lowell Computer Science, anna_sergienko@student.uml.edu
  Copyright (c) 2020 by Anna Sergienko. All rights reserved. May be
